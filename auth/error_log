@@ -1,0 +1,4 @@
+[21-Oct-2023 11:20:13 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/lapk1813/public_html/violet.lapaxdigital.com/library/customfunction.php on line 8
+[21-Oct-2023 11:20:13 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/lapk1813/public_html/violet.lapaxdigital.com/library/customfunction.php on line 8
+[21-Oct-2023 11:20:13 Asia/Jakarta] PHP Warning:  file_get_contents(cookies_bca.txt): failed to open stream: No such file or directory in /home/lapk1813/public_html/violet.lapaxdigital.com/library/function/class.bca.php on line 11
+[21-Oct-2023 11:20:13 Asia/Jakarta] PHP Notice:  Undefined index: token in /home/lapk1813/public_html/violet.lapaxdigital.com/library/function/Flip.php on line 12
