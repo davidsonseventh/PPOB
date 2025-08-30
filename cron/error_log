@@ -1,0 +1,18 @@
+[14-Jun-2024 12:05:02 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '(int)' (int) (T_INT_CAST) in /home/manc9178/public_html/vpay.manzshop99.com/cron/refund.php on line 16
+[14-Jun-2024 12:10:03 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '(int)' (int) (T_INT_CAST) in /home/manc9178/public_html/vpay.manzshop99.com/cron/refund.php on line 16
+[14-Jun-2024 12:15:03 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '(int)' (int) (T_INT_CAST) in /home/manc9178/public_html/vpay.manzshop99.com/cron/refund.php on line 16
+[14-Jun-2024 12:20:03 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '(int)' (int) (T_INT_CAST) in /home/manc9178/public_html/vpay.manzshop99.com/cron/refund.php on line 16
+[14-Jun-2024 12:25:03 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '(int)' (int) (T_INT_CAST) in /home/manc9178/public_html/vpay.manzshop99.com/cron/refund.php on line 16
+[14-Jun-2024 12:30:02 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '(int)' (int) (T_INT_CAST) in /home/manc9178/public_html/vpay.manzshop99.com/cron/refund.php on line 16
+[14-Jun-2024 12:35:03 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '(int)' (int) (T_INT_CAST) in /home/manc9178/public_html/vpay.manzshop99.com/cron/refund.php on line 16
+[14-Jun-2024 12:40:02 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '(int)' (int) (T_INT_CAST) in /home/manc9178/public_html/vpay.manzshop99.com/cron/refund.php on line 16
+[14-Jun-2024 12:45:02 Asia/Jakarta] PHP Notice:  Undefined variable: call in /home/manc9178/public_html/vpay.manzshop99.com/cron/refund.php on line 3
+[14-Jun-2024 12:45:02 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/manc9178/public_html/vpay.manzshop99.com/cron/refund.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/manc9178/public_html/vpay.manzshop99.com/cron/refund.php on line 3
+[14-Jun-2024 12:50:02 Asia/Jakarta] PHP Notice:  Undefined variable: call in /home/manc9178/public_html/vpay.manzshop99.com/cron/refund.php on line 3
+[14-Jun-2024 12:50:02 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/manc9178/public_html/vpay.manzshop99.com/cron/refund.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/manc9178/public_html/vpay.manzshop99.com/cron/refund.php on line 3

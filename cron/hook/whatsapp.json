@@ -1,0 +1,9 @@
+{
+    "type": "chat",
+    "data": {
+        "from": "your_from_number",
+        "message": {
+            "pesan": "32131,32131,321"
+        }
+    }
+}
